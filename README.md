@@ -11,7 +11,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/Emmanuel-Emmanuel/"><img align="left" src="https://raw.githubusercontent.com/Emmanuel-Ezekiel/Emmanuel-Ezekiel/main/images/linkedin.svg" alt="Emmanuel-Ezekiel | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/Emmanuel-Ezekiel/"><img align="left" src="https://raw.githubusercontent.com/Emmanuel-Ezekiel/Emmanuel-Ezekiel/main/images/linkedin.svg" alt="Emmanuel-Ezekiel | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/rungee.codes"><img align="left" src="https://raw.githubusercontent.com/Emmanuel-Ezekiel/Emmanuel-Ezekiel/main/images/instagram.svg" alt="Emmanuel-Ezekiel | Instagram" width="21px"/></a>
 <a href="https://twitter.com/emagency95"><img align="left" src="https://raw.githubusercontent.com/Emmanuel-Ezekiel/Emmanuel-Ezekiel/main/images/twitter.svg" alt="Emmanuel-Ezekiel | twitter" width="21px"/></a>
 </br>
