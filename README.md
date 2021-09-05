@@ -9,6 +9,13 @@ I'm a Front-End Developer 💻, and physicist!
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/Emmanuel-Emmanuel/"><img align="left" src="https://raw.githubusercontent.com/Emmanuel-Ezekiel/Emmanuel-Ezekiel/main/images/linkedin.svg" alt="Emmanuel-Ezekiel | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/rungee.codes"><img align="left" src="https://raw.githubusercontent.com/Emmanuel-Ezekiel/Emmanuel-Ezekiel/main/images/instagram.svg" alt="Emmanuel-Ezekiel | Instagram" width="21px"/></a>
+<a href="https://twitter.com/emagency95"><img align="left" src="https://raw.githubusercontent.com/Emmanuel-Ezekiel/Emmanuel-Ezekiel/main/images/twitter.svg" alt="Emmanuel-Ezekiel | twitter" width="21px"/></a>
+</br>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
