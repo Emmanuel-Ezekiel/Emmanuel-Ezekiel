@@ -1,6 +1,13 @@
-### Hi there 👋
 
+<h3 align="center">
+Hi there, I'm Emmanuel Ezekiel 👋
+</h3>
 
+<h2 align="center">
+I'm a Front-End Developer 💻, and physicist!
+</h2> 
+
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 Here are some ideas to get you started:
 
