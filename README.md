@@ -7,16 +7,17 @@ Hi there, I'm Emmanuel Ezekiel 👋
 I'm a Front-End Developer 💻, and physicist!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. 
 
 ### 🤝 Connect with me:
 
 
-<img align="left" alt="Emmanuel-Ezekiel | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="Emmanuel-Ezekiel  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://facebook.com/emamex"><img align="left" alt="Emmanuel-Ezekiel | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://twitter.com/emagency95"><img align="left" alt="Emmanuel-Ezekiel  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/Emmanuel-Ezekiel/"><img align="left" alt="Emmanuel-Ezekiel  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<img align="left" alt="Emmanuel-Ezekiel  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://instagram.com/rungee.codes"><img align="left" alt="Emmanuel-Ezekiel  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
+</br>
 
 Here are some ideas to get you started:
 
