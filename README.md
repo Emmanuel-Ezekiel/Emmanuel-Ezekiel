@@ -4,7 +4,7 @@ Hi there, I'm Emmanuel Ezekiel 👋
 </h3>
 
 <h2 align="center">
-I'm a Front-End Developer 💻, and physicist!
+I'm a Front-End Developer 💻 and A Physicist!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. 
@@ -18,6 +18,18 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://instagram.com/rungee.codes"><img align="left" alt="Emmanuel-Ezekiel  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 </br>
+
+## 🔭 I'm currently working on
+
+- My React projects
+- My Portfolio Websites
+
+## 🌱 I'm currently learning
+
+- 📱 React Native
+- Node js
+- Gatsby
+- Redux
 
 Here are some ideas to get you started:
 
