@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm Emmanuel Ezekiel 👋
+Hi there, I'm Emmanuel Ezekiel 👨‍💻
 </h3>
 
 <h2 align="center">
