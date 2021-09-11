@@ -21,10 +21,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-### Github Stats
-
-[![Emmanuel Ezekiel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-Ezekiel&show_icons=true&count_private=true)](https://github.com/Emmanuel-Ezekiel)
-
 ## 🔭 I'm currently working on
 
 - My React projects
