@@ -9,7 +9,7 @@ I'm a Front-End Developer 💻
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. 
+I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. I am Software developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner and team player who is proficient in an array of scripting languages.
 
 ### 🤝 Connect with me:
 
@@ -51,7 +51,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&Color=white)
 
 
 </br>
