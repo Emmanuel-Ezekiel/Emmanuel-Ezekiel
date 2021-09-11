@@ -1,10 +1,10 @@
 
 <h3 align="center">
-Hi there, 👨‍💻
+Hi there, 👋 
 </h3>
 
 <h2 align="center">
-I'm Emmanuel Ezekiel 💻 
+I'm Emmanuel Ezekiel 👨‍💻
 </h2> 
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
@@ -20,10 +20,9 @@ I love the entire process of developing creative websites.  I am Software develo
 
 </br>
 
-## 🌱 I'm currently learning
+## 📚  I'm currently learning
 
-- 📱 React Native
-- Node js
+- NodeJS, ExpressJS and MongoDB.
 - Gatsby
 - Redux
 
