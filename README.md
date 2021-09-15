@@ -8,7 +8,7 @@ I'm Emmanuel Ezekiel 👨‍💻
 </h2> 
 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-I am Frontend developer who is passionate about writing code, solving problems, automating stuff, and building software and I love the entire process of developing creative websites. Fast learner and team player who is proficient in an array of scripting languages.
+I am Frontend developer who is passionate about writing code, solving problems, automating stuff, been Proficient in application design and development with an innovative concept to the next evolutionary phase.  Having strong communication and technical background. I am driven by roles that will leverage my strengths in a Software Development capacity for a mutually rewarding experience.
 
 ### 🤝 Connect with me:
 
