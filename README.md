@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, 👋 
+Hi There 👋 👋 
 </h3>
 
 <h2 align="center">
