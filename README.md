@@ -25,7 +25,7 @@ I am Frontend developer who is passionate about writing code, solving problems, 
 
 - NodeJS, ExpressJS and MongoDB.
 - Gatsby
-- Redux
+
 
 ## 🔭 I'm currently working on
 
