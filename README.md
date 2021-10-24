@@ -47,7 +47,7 @@ I am Frontend developer who is passionate about writing code, solving problems, 
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=NodeJs&color=E34F26)
+![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=Node-Js&color=green)
 
 </br>
 
