@@ -11,6 +11,35 @@ I'm Emmanuel Ezekiel 👨‍💻
 
 I am Frontend developer who is passionate about writing code, solving problems, automating stuff, been Proficient in application design and development with an innovative concept to the next evolutionary phase.  Having strong communication and technical background. I am driven by roles that will leverage my strengths in a Software Development capacity for a mutually rewarding experience.
 
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=green)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&color=navygreen)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=lightgreen)
+
+</br>
+
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&Color=white)
+
+
+</br>
+
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&Color=white)
+![](https://img.shields.io/badge/Tools-Visualstudio-informational?style=flat&logo=visual-studio&Color=white)
+
+
 ### 🤝 Connect with me:
 
 
@@ -42,30 +71,4 @@ I am Frontend developer who is passionate about writing code, solving problems, 
 - Basketball
 - Love Travelling
 
-## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=green)
-![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&color=navygreen)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=lightgreen)
-
-</br>
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&Color=white)
-
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&Color=white)
-![](https://img.shields.io/badge/Tools-Visualstudio-informational?style=flat&logo=visual-studio&Color=white)
 
