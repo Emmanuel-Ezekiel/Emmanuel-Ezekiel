@@ -23,8 +23,9 @@ I am Frontend developer who is passionate about writing code, solving problems, 
 
 ## 📚  I'm currently learning
 
-- NodeJS, ExpressJS and MongoDB.
+- NextJs
 - Gatsby
+- Tailwind css
 
 
 ## 🔭 I'm currently working on
