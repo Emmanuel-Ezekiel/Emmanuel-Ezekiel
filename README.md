@@ -48,6 +48,8 @@ I am Frontend developer who is passionate about writing code, solving problems, 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=green)
+![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&color=white)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=lightgreen)
 
 </br>
 
