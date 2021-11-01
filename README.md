@@ -53,7 +53,6 @@ I am Frontend developer who is passionate about writing code, solving problems, 
 ## 📚  I'm currently learning
 
 - NextJs
-- Gatsby
 - Tailwind css
 
 
