@@ -5,7 +5,7 @@ Hi There 👋 👋 , I'm Emmanuel Ezekiel 👨‍💻
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
 
-I am Frontend developer who is passionate about writing code, solving problems, automating stuff, been Proficient in application design and development with an innovative concept to the next evolutionary phase.  Having strong communication and technical background. I am driven by roles that will leverage my strengths in a Software Development capacity for a mutually rewarding experience.
+I am an Experienced Frontend developer who is passionate about writing code, solving problems, automating stuff, been Proficient in application design and development with an innovative concept to the next evolutionary phase.  Having strong communication and technical background. I am driven by roles that will leverage my strengths in a Software Development capacity for a mutually rewarding experience.
 
 
 ## 💼 Technical Skills
