@@ -48,7 +48,7 @@ I'm a Frontend Developer with bachelor's in physics with experience developing w
 
 ## 📚  I'm currently learning
 
-- NextJs
+- PostgreSQL
 - Tailwind css
 
 
