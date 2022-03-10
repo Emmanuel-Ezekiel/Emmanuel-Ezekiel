@@ -17,12 +17,17 @@ I'm a Frontend Developer with bachelor's in physics with experience developing w
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=green)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&color=navygreen)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=lightgreen)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=blue)
 
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=SASS&Color=white)
+![](https://img.shields.io/badge/Style-TailwindCss-informational?style=flat&logo=TailwindCss&Color=white)
+![](https://img.shields.io/badge/Style-StyledComponent-informational?style=flat&logo=StyledComponent&Color=red)
+
+
 
 
 </br>
