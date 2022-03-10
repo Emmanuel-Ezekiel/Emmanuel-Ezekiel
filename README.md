@@ -18,6 +18,7 @@ I'm a Frontend Developer with bachelor's in physics with experience developing w
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express.js&color=navygreen)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&color=lightgreen)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=blue)
+![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=black)
 
 </br>
 
