@@ -5,7 +5,7 @@ Hi There 👋 , I'm Emmanuel Ezekiel 👨‍💻
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
 
-I'm a Frontend Developer with bachelor's in physics with experience developing web applications with a deep understanding of effective team collaboration, Skilled and persistent problem solver who writes clean, elegant code and with a deep knowledge of Agile methodology and scrum operations. Demonstrated ability to collaborate effectively on project delivery across all phases of the software lifecycle including requirements management, customisation, programming, testing, and deployment.
+I'm a I'm a front-end developer with 3 years of experience in building user-facing web applications. I specialize in building visually appealing and intuitive user interfaces using technologies such as HTML, CSS, and JavaScript and I'm proficient in React. I have a strong foundation in frontend development principles and am always looking to learn and improve my skills. In my work, I enjoy taking on complex problems and finding creative solutions to bring ideas to life. I'm excited to share my skills and experience with others and am always open to new opportunities to collaborate and grow as a developer.
 
 
 ## 💼 Technical Skills
