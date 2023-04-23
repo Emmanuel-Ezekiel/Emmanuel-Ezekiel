@@ -5,7 +5,18 @@ Hi There 👋 , I'm Emmanuel Ezekiel 👨‍💻
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
 
-I'm a I'm a front-end developer with 4 years of experience in building user-facing web applications. I specialize in building visually appealing and intuitive user interfaces using technologies such as HTML, CSS, and JavaScript and I'm proficient in React. I have a strong foundation in frontend development principles and am always looking to learn and improve my skills. In my work, I enjoy taking on complex problems and finding creative solutions to bring ideas to life. I'm excited to share my skills and experience with others and am always open to new opportunities to collaborate and grow as a developer.
+I am a skilled  Frontend Engineer with over 4 years of full-time professional experience, I have gained expertise in using JavaScript for web and mobile app development. My current focus is on React Framework, React Native, and Next.js, which allows me to create responsive, user-friendly interfaces for various projects.
+
+I have experience working collaboratively with Scrum teams, participating in sprint planning, backlog refinement, and other Scrum-related events. My strong problem-solving skills and passion for innovation have helped me tackle complex technical issues and deliver high-quality solutions on time and on budget.
+
+In addition to my technical skills, I have a keen interest in keeping up-to-date with the latest technologies and trends. I enjoy reading about industry news and exploring open-source projects in my free time. I am also an avid blogger and have written articles on topics such as best practices for mobile app development and strategies for optimizing website performance.
+
+My technical skills include expertise in HTML, CSS, JavaScript, TypeScript, React, React Native, and Redux for Front-End development. Additionally, I have experience with NodeJS, MongoDB, and NoSQL for Back-End development. I am also knowledgeable in CI/CD and have worked with GitHub Actions.
+
+Some of my measurable accomplishments include developing a mobile app that increased user engagement by 30%, optimizing website load time by 50%, and collaborating with cross-functional teams to deliver multiple successful projects on time and within budget.
+
+I am excited to continue to grow my skillset and contribute to innovative projects that make a positive impact on society. Let's connect and discuss how we can work together!
+CI/CD: GitHub Actions,
 
 
 ## 💼 Technical Skills
