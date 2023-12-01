@@ -1,22 +1,15 @@
 
 <h2 align="center">
-Hi There 👋 , I'm Emmanuel Ezekiel 👨‍💻
+👋 Hi there!, I'm Emmanuel Ezekiel 👨‍💻
 </h2> 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="270" />
 
-I am a skilled  Frontend Engineer with over 4 years of full-time professional experience, I have gained expertise in using JavaScript for web and mobile app development. My current focus is on React Framework, React Native, and Next.js, which allows me to create responsive, user-friendly interfaces for various projects.
+I'm a senior Frontend engineer with over 5 years of experience specializing in TypeScript, React, Next.js, and React Native. My repositories showcase my passion for building scalable and performant web and mobile applications, leveraging the latest frontend technologies to deliver exceptional user experiences.
 
-I have experience working collaboratively with Scrum teams, participating in sprint planning, backlog refinement, and other Scrum-related events. My strong problem-solving skills and passion for innovation have helped me tackle complex technical issues and deliver high-quality solutions on time and on budget.
+🚀 My projects demonstrate my expertise in architecting robust and maintainable codebases, utilizing best practices to ensure code quality and efficiency. I'm committed to staying at the forefront of frontend development, continuously refining my skills to tackle complex challenges and drive innovation.
 
-In addition to my technical skills, I have a keen interest in keeping up-to-date with the latest technologies and trends. I enjoy reading about industry news and exploring open-source projects in my free time. I am also an avid blogger and have written articles on topics such as best practices for mobile app development and strategies for optimizing website performance.
-
-My technical skills include expertise in HTML, CSS, JavaScript, TypeScript, React, React Native, and Redux for Front-End development. Additionally, I have experience with NodeJS, MongoDB, and NoSQL for Back-End development. I am also knowledgeable in CI/CD and have worked with GitHub Actions.
-
-Some of my measurable accomplishments include developing a mobile app that increased user engagement by 30%, optimizing website load time by 50%, and collaborating with cross-functional teams to deliver multiple successful projects on time and within budget.
-
-I am excited to continue to grow my skillset and contribute to innovative projects that make a positive impact on society. Let's connect and discuss how we can work together!
-CI/CD: GitHub Actions,
+🌐 I'm enthusiastic about open-source collaboration and welcome opportunities to contribute to impactful projects. Let's connect and explore how we can collaborate to push the boundaries of frontend engineering together!
 
 
 ## 💼 Technical Skills
